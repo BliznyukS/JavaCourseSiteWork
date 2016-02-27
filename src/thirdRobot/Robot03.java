@@ -7,7 +7,7 @@ public class Robot03 {
     // Текущая координата Y
     private double y = 0;
     // Текущий курс (в градусах)
-    private double course = 0;
+    protected double course = 0;
 
     // Вот наш конструктор, который пока не очень полезен
     public Robot03(double x, double y) {
