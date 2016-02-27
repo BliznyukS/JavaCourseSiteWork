@@ -10,6 +10,6 @@ public class Robot04 {
 
     @Override
     public String toString() {
-        return "name=" + name;
+        return "name = " + name;
     }
 }
