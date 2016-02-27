@@ -21,6 +21,8 @@ public class RobotManager01 {
     }
 
     private void changeCourse(Robot01 robot) {
+        robot = new Robot01();
         robot.setCourse(180);
+        System.out.println(robot.getCourse());
     }
 }

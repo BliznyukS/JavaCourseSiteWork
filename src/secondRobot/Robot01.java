@@ -6,10 +6,12 @@ public class Robot01 {
     private double course = 0;
 
     public double getCourse() {
+
         return course;
     }
 
     public void setCourse(double course) {
+
         this.course = course;
     }
 }
