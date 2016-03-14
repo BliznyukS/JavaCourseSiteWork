@@ -15,7 +15,7 @@ public class RobotManager {
         System.out.println(r2.x);*/
 
         // Создаем объекта класса Robot
-        Robot robot = new Robot();
+        Robot01 robot = new Robot01();
 
         // Вперед на 20 метров
         robot.forward(20);

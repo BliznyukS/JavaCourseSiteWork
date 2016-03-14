@@ -1,6 +1,6 @@
 package startRobot;
 
-public class Robot {
+public class Robot01 {
 
     // Текущая координата X
     private double x = 0;
