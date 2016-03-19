@@ -1,4 +1,4 @@
-package mainRobot;
+package ovalTest;
 
 import java.awt.Graphics;
 import javax.swing.JComponent;

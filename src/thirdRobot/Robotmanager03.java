@@ -4,7 +4,7 @@ public class Robotmanager03 {
 
     public static void main(String[] args) {
         // Создаем объекта класса Robot - теперь с параметрами
-        RobotExt robot = new RobotExt(0, 0, 0);
+        RobotExt03 robot = new RobotExt03(0, 0, 0);
 
         // Вперед на 20 метров
         robot.forward(20);
