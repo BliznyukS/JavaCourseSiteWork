@@ -1,12 +1,12 @@
 package thirdRobot;
 
-public class RobotTotal extends Robot03{
+public class RobotTotal03 extends Robot03{
 
     // Вводим поле дляхранения пройденной дистанции
     private double totalDistance = 0;
 
     // Конструктор тоже надо переопределить
-    public RobotTotal(double x, double y) {
+    public RobotTotal03(double x, double y) {
         super(x, y);
     }
 

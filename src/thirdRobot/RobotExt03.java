@@ -1,8 +1,8 @@
 package thirdRobot;
 
-public class RobotExt extends Robot03 {
+public class RobotExt03 extends Robot03 {
 
-    public RobotExt(double x, double y, double course) {
+    public RobotExt03(double x, double y, double course) {
         super(x, y);
         this.course = course;
     }

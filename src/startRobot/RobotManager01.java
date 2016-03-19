@@ -1,6 +1,6 @@
 package startRobot;
 
-public class RobotManager {
+public class RobotManager01 {
 
     public static void main(String[] args) {
 
