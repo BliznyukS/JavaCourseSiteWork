@@ -1,6 +1,6 @@
 public class SwitchFourth {
     public static void main(String[] arg) {
-        int number= 1;
+        int number= 3;
 
         switch(number) {
             case 1:
